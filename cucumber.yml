@@ -1,0 +1,1 @@
+default: -r features BROWSER_TYPE=firefox  --tags ~@wip --tags ~@ignore --color --format pretty --format html -o report/results.html
